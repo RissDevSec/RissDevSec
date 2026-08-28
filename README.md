@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Bonzz</h1>
+<h1 align="center">Hi there 👋, I'm FarisArhana</h1>
 
 <p align="center">
   Just someone learning to code and building small projects along the way.
@@ -27,6 +27,3 @@
 
 ---
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=BonzzSysSec&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
